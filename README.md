@@ -1,0 +1,1 @@
+The first goal is to get my playing data from chess.com via their API. Move on to store the data in a csv file which will be imported to RStudio for the Shiny app. The following videos provided guidance on how to go about the process: getting data - https://www.youtube.com/watch?v=KYNbHGs-qG4&list=LL&index=4 , making a shiny app - 
