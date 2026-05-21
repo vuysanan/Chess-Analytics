@@ -18,3 +18,5 @@
 
 ## Phase 3 - Deployment
 
+* Published the app on ShinyApps.io
+
