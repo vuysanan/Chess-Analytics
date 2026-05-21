@@ -1,5 +1,9 @@
 # Chess Analytics
 
+## Background
+
+* I started playing chess on chess.com in February 2026 and around the same time I also enrolled to an Applied Data Analytics module in uni. This program brings together both of these worlds 
+
 ## Phase 0 - Requirements
 
 * Track and display all my games on chess.com with a bar graph showing my wins, draws and losses
