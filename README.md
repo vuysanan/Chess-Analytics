@@ -3,7 +3,7 @@
 ## Phase 0 - Requirements
 
 * Track and display all my games on chess.com with a bar graph showing my wins, draws and losses
-* Use a scatter plot to map the game date against my opponent's rating to visualize the caliber of players I am facing over time
+* Use a scatter plot to map game dates against my opponent's rating to visualize the caliber of players I am facing over time
 
 ## Phase 1 - Data
 
