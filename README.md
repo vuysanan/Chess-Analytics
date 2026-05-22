@@ -2,8 +2,8 @@
 
 ## The App - <a href="https://vuysanan.shinyapps.io/chess_analytics/"><i>View here</i></a>
 
-<img src="images/overview" alt="App overview" width="1000">
-<img src="images/opponents" alt="Opponent Analysis" width="1000">
+<img src="images/overview.png" alt="App overview" width="1000">
+<img src="images/opponents.png" alt="Opponent Analysis" width="1000">
 
 ## Background
 
