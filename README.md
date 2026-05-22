@@ -17,9 +17,9 @@
 ## Phase 1 - Data
 
 * The first phase of the process is to get my playing data from chess.com via their API. Move on to store the data in a csv file which will be imported to RStudio for the Shiny app. The following videos provided guidance on how to go about the process: 
-<a href="https://www.youtube.com/watch?v=KYNbHGs-qG4&list=LL&index=4">get data</a> and
-<a href="https://www.youtube.com/watch?v=cVxS5vfu-lQ&list=LL&index=1">write data to csv file</a>
-<a href="https://www.youtube.com/watch?v=dcQs8k9WGbY">combining csv files</a>
+<a href="https://www.youtube.com/watch?v=KYNbHGs-qG4&list=LL&index=4">get data</a>, 
+<a href="https://www.youtube.com/watch?v=cVxS5vfu-lQ&list=LL&index=1">write data to csv file</a> and 
+<a href="https://www.youtube.com/watch?v=dcQs8k9WGbY">combine csv files</a>
 
 ## Phase 2 - App
 
